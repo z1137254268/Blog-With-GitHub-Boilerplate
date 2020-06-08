@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+/**
+* author: Zeee
+*/
+
+@import "includes/normalize";
+@import "includes/var";
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 15px;
+    background: #fff;
+}
+
+body {
+    color: $text-primary;
+    font-family: $pr-font-sans;
+}
+
+@mixin my-link {
+    text-decoration: none;
+    color: $text-light;
+
+    &:hover {
+        color: #dfdfdf;
+    }
+}
+
+@import "includes/bootstrap-grid";
+@import "includes/yue";
+@import "includes/highlight";
+@import "includes/preset";
+@import "includes/global";
+@import "includes/index";
+@import "includes/content";
+@import "includes/icon";
+// @import "includes/photoswipe";
+@import "includes/dplayer";
+@import "includes/valine";
