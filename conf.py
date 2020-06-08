@@ -81,15 +81,6 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
-valine = {
-    "enable": True,
-    "el": '#vcomments',
-    "appId": "IKRAfuPq0zrz6Wfje8ahHAIP-gzGzoHsz",
-    "appKey": "lFaCWkd4xCs0Ng5UWs1eHNwU",
-    "visitor": True,
-    "recordIP": True
-}
-
 footer_addon = ''
 
 body_addon = ''
