@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "小牛主题主题",
+    "name": "Kepler",
     "type": "local",
-    "path": "../小牛主题主题"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": False,
