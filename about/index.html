@@ -78,6 +78,21 @@
     
 
     
+    <script>
+        var initValine = function() {
+            new Valine({"enable": true, "el": "#vcomments", "appId": "5xzvxkmRLmbFJaYon5mOUndy-MdYXbMMI", "appKey": "7ExQ25scyIqACsvqGeITqr7S", "visitor": true, "recordIP": true});
+        }
+
+    </script>
+    <script defer src='https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js' onload="initValine()"></script>
+    <div class="prism-comment-section container" id="prism__comment">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <div id="vcomments"></div>
+            </div>
+        </div>
+    </div>
+    
 
 </main>
 
