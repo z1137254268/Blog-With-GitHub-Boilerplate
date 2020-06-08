@@ -1,0 +1,167 @@
+/*
+Global elements
+*/
+
+.prism-container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#prism__header {
+    width: 100%;
+    padding: 30px 20px 30px;
+    text-align: center;
+
+    h1 {
+        font-size: 2.5em;
+        letter-spacing: 2px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1em;
+        color: $text-light;
+    }
+
+    .brand-logo {
+        width: 100%;
+        max-width: 80px;
+        text-align: center;
+        margin: 0 auto 10px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    .prism-nav {
+        margin-top: 40px;
+
+        ul {
+            padding: 0;
+            list-style: none;
+            font-weight: 500;
+            display: flex;
+            justify-content: center;
+            color: $text-primary;
+            flex-wrap: wrap;
+
+            li {
+                margin: 0 30px;
+                line-height: 1.5;
+
+                a.link-active {
+                    color: $text-light;
+                }
+            }
+
+        }
+    }
+
+    .prism-cover {
+        width: 100%;
+        height: 400px;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+    }
+}
+
+#prism__footer {
+
+    margin-bottom: 20px;
+
+    .social-links {
+        margin-top: 30px;
+
+        ul {
+            padding: 0;
+            list-style: none;
+            display: flex;
+            justify-content: center;
+
+            li {
+                margin: 0 10px;
+                display: inline-block;
+                width: 30px;
+                height: 30px;
+                // border-radius: 30px;
+                background-color: $text-light;
+                text-align: center;
+
+                &:hover {
+                    background-color: $text-secondary;
+                }
+
+                a {
+                    color: #fff;
+                    font-size: 16px;
+                    line-height: 30px;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+
+    .copyright {
+        text-align: center;
+        margin: 5px 0 10px;
+        font-size: .8em;
+        line-height: 1.65;
+
+        .copyright-text {
+            display: inline;
+
+            &.powered-by {
+                color: $text-secondary;
+            }
+        }
+    }
+
+    .footer-addon {
+        text-align: center;
+        font-size: .8em;
+        margin-bottom: 10px;
+        a {
+            @include a-preset();
+        }
+    }
+}
+
+#prism__external_links {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        li {
+            padding: 10px 0;
+            font-size: 14px;
+
+            span {
+                margin: 0 10px;
+            }
+
+            &:last-child span {
+                display: none;
+            }
+        }
+
+    }
+}
+
+@media (max-width: 576px) {
+    #prism__header {
+        .prism-nav ul li {
+            margin: 0 15px;
+        }
+    }
+}

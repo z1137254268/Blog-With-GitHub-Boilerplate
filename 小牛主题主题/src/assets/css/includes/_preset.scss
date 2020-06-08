@@ -1,0 +1,49 @@
+@mixin a-preset {
+    text-decoration: none;
+    color: #000;
+
+    &:hover {
+        color: #666;
+    }
+}
+
+a.no-link {
+    @include a-preset();
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.text-normal {
+    text-transform: none !important;
+}
+
+.text-muted {
+    color: #6c757d !important;
+}
+
+.dplayer {
+    margin-bottom: 1.24em;
+}
+
+figure.vertical-figure {
+    img {
+        max-width: 567px;
+    }
+}
+
+// figure.cover-figure,
+// figure.cover-figure.vertical-figure {
+//     img {
+//         max-width: 100%;
+//     }
+// }
+
+@media (max-width: 992px) {
+    figure.vertical-figure {
+        img {
+            max-width: 100%;
+        }
+    }
+}
