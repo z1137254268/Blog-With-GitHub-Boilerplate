@@ -1,0 +1,17 @@
+package-lock.json
+/templates/
+.DS_Store
+node_modules/
+temp
+.vscode
+__pycache__
+dist/
+
+test_dist
+cached_imgs
+tmp
+/assets/
+/deploy/
+
+*.sh
+*.txt
