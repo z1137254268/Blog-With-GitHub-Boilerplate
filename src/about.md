@@ -12,11 +12,11 @@ tags:
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+通过 GitHub 管理与构建。
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: 1137254268@qq.com
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[AlanDecode]()
