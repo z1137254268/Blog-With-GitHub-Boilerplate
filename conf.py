@@ -65,9 +65,9 @@ social_links = [
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
+        "name": "qq",
         "url": "",
-        "icon": "gi gi-weibo"
+        "icon": "gi gi-qq"
     }
 ]
 
