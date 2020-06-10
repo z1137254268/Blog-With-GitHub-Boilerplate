@@ -63,11 +63,6 @@ social_links = [
         "name": "GitHub",
         "url": "",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "qq",
-        "url": "",
-        "icon": "gi gi-qq"
     }
 ]
 
