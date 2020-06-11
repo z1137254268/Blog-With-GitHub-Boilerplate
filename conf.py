@@ -33,11 +33,6 @@ external_links = [
         "name": "记录",
         "url": "https://blong.banszd.top/",
         "brief": "Neu的日常（遇到的有趣东西）。"
-    },    
-    {
-        "name": "Neu",
-        "url": "https://blong.banszd.top/",
-        "brief": "笨比。"
     }
 ]
 nav = [
@@ -59,11 +54,7 @@ nav = [
 ]
 
 social_links = [
-    {
-        "name": "GitHub",
-        "url": "",
-        "icon": "gi gi-github"
-    }
+
 ]
 
 head_addon = r'''
