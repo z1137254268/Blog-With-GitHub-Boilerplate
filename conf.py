@@ -30,9 +30,9 @@ key_words = ['Maverick', 'Neu', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "主旨",
+        "name": "记录",
         "url": "https://blong.banszd.top/",
-        "brief": "记录Neu的日常（遇到的有趣东西）。"
+        "brief": "Neu的日常（遇到的有趣东西）。"
     },    
     {
         "name": "Neu",
