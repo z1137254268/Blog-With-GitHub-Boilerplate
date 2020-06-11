@@ -32,7 +32,7 @@ external_links = [
     {
         "name": "记录",
         "url": "https://blong.banszd.top/",
-        "brief": "Neu的日常（遇到的有趣东西）。"
+        "brief": "Neu"
     }
 ]
 nav = [
