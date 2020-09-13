@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Neu</title><link>/</link><description>只坚持一种正义。我的正义。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>Neu</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 12 Sep 2020 15:31:58 +0806</lastBuildDate><pubDate>Sat, 12 Sep 2020 15:31:58 +0806</pubDate><item><title>关于我4个月加强锻炼的计划</title><link>/archives/my-first-awesome-post/</link><description>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Neu</title><link>/</link><description>只坚持一种正义。我的正义。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>Neu</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 13 Sep 2020 18:31:57 +0806</lastBuildDate><pubDate>Sun, 13 Sep 2020 18:31:57 +0806</pubDate><item><title>关于我4个月加强锻炼的计划</title><link>/archives/my-first-awesome-post/</link><description>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;6月12号&lt;/p&gt;
@@ -90,6 +90,21 @@
 &lt;tr&gt;
 &lt;td&gt;13，15，17，19，21，23，26，27，30，31，2，4，6，8，10，&lt;/td&gt;
 &lt;td&gt;12，14，16，18，20，22，24，25，28，29，1，3，5，7，9，11，&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;9月12号&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;已完成&lt;/th&gt;
+&lt;th&gt;未完成&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;12，&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
