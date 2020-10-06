@@ -19,7 +19,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/my-first-awesome-post/</loc>
+    <loc>/archives/1/</loc>
     <lastmod>2020-06-13</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
