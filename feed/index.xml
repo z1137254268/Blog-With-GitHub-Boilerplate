@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Neu</title><link>/</link><description>只坚持一种正义。我的正义。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>Neu</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 10 May 2021 06:27:28 +0806</lastBuildDate><pubDate>Mon, 10 May 2021 06:27:28 +0806</pubDate><item><title>关于我4个月加强锻炼的计划</title><link>/archives/1/</link><description>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Neu</title><link>/</link><description>只坚持一种正义。我的正义。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>Neu</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 14 May 2021 04:51:50 +0806</lastBuildDate><pubDate>Fri, 14 May 2021 04:51:50 +0806</pubDate><item><title>关于我4个月加强锻炼的计划</title><link>/archives/1/</link><description>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;6月12号&lt;/p&gt;
@@ -202,18 +202,18 @@
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;4月12号&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th&gt;已完成&lt;/th&gt;
-&lt;th&gt;未完成&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;13，18，19，21，26，28，1，6，8，&lt;/td&gt;
-&lt;td&gt;12，14，15，16，17，20，22，23，24，25，27，29，30，2，3，4，5，7，9，&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;已完成 | 未完成
+--------- | -------------，
+13，18，19，21，26，28，1，6，8，| 12，14，15，16，17，20，22，23，24，25，27，29，30，2，3，4，5，7，9，10，11，&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;4月12号&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已完成 | 未完成
+--------- | -------------，
+13，18，19，21，26，28，1，6，8，| 12，14，15，16，17，20，22，23，24，25，27，29，30，2，3，4，5，7，9，10，11，&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;5月12号&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;已完成 | 未完成
+--------- | -------------，
+13，| 12，&lt;/p&gt;
 &lt;hr&gt;
 </description><author>1137254268@qq.com (Neu)</author><guid isPermaLink="true">/archives/2/</guid><pubDate>Mon, 12 Oct 2020 15:32:00 +0806</pubDate></item></channel></rss>
