@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Neu</title><updated>2021-07-10T00:42:27.352417+08:06</updated><author><name>Neu</name><email>1137254268@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>只坚持一种正义。我的正义。</subtitle><entry><id>/archives/1/</id><title>关于我4个月加强锻炼的计划</title><updated>2021-07-10T00:42:27.352515+00:00</updated><author><name>Neu</name><email>1137254268@qq.com</email><uri>http://banszd.top</uri></author><content>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Neu</title><updated>2021-07-12T00:54:25.219218+08:06</updated><author><name>Neu</name><email>1137254268@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/z1137254268/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>只坚持一种正义。我的正义。</subtitle><entry><id>/archives/1/</id><title>关于我4个月加强锻炼的计划</title><updated>2021-07-12T00:54:25.219325+00:00</updated><author><name>Neu</name><email>1137254268@qq.com</email><uri>http://banszd.top</uri></author><content>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;6月12号&lt;/p&gt;
@@ -109,7 +109,7 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-</content><link href="/archives/1/" rel="alternate"/><published>2020-06-13T13:44:00+08:06</published></entry><entry><id>/archives/2/</id><title>加强锻炼的计划 （续）</title><updated>2021-07-10T00:42:27.352464+00:00</updated><author><name>Neu</name><email>1137254268@qq.com</email><uri>http://banszd.top</uri></author><content>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/1/" rel="alternate"/><published>2020-06-13T13:44:00+08:06</published></entry><entry><id>/archives/2/</id><title>加强锻炼的计划 （续）</title><updated>2021-07-12T00:54:25.219269+00:00</updated><author><name>Neu</name><email>1137254268@qq.com</email><uri>http://banszd.top</uri></author><content>&lt;p&gt;&lt;strong&gt;我的锻炼计划&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;10月12号&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -241,7 +241,22 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;17，20，25，29，5，&lt;/td&gt;
-&lt;td&gt;12，13，14，15，16，18，19，21，22，23，24，26，27，28，30，1，2，3，4，6，7，8，9，&lt;/td&gt;
+&lt;td&gt;12，13，14，15，16，18，19，21，22，23，24，26，27，28，30，1，2，3，4，6，7，8，9，10，11，&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;7月12号&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th&gt;已完成&lt;/th&gt;
+&lt;th&gt;未完成&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;，&lt;/td&gt;
+&lt;td&gt;12，&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
